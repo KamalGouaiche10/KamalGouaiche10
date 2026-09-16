@@ -6,25 +6,18 @@
 
 <a href="mailto:gouaichekamal@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
 <a href="https://www.linkedin.com/in/kamal-gouaiche-2584b8268/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/KamalGouaiche10"><img src="https://img.shields.io/badge/GitHub-333333?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
 
 </div>
 
 <br/>
 
-I'm a Computer Science student focused on building **robust, well-engineered software** — from full-stack web applications to the tooling and pipelines that make teams more productive. I care about clean code, solid testing, and systems designed to be understood, not just to work. My goal is to grow into a software engineer who bridges development and infrastructure.
+## About me
 
-<br/>
+I'm a Computer Science student at the Universita del Piemonte Orientale, working toward a degree that's taken me from algorithms and database theory to building full working products. I like software that is engineered rather than just written - code that's clean, tested, and easy for the next person (often future me) to pick up.
 
-## Featured projects
+Outside coursework, I build things on my own: a full-stack food delivery platform with separate views for admins, restaurants and customers; database systems designed from the ground up; small tools that automate the boring parts of a developer's day. That mix of academic rigor and hands-on building is what pushes me toward a career that bridges software development and infrastructure - writing the applications, and the tooling that helps teams ship them well.
 
-| Project | Description | Stack |
-|---|---|---|
-| **[Speedy](https://github.com/KamalGouaiche10/Speedy)** | Full-stack food delivery platform with separate dashboards for admins, restaurants, and customers | Node.js, Express, EJS, SQLite |
-| **[Progetto-DataBase](https://github.com/KamalGouaiche10/Progetto-DataBase)** | Relational database design and implementation project | PL/pgSQL, PostgreSQL |
-| **[Progetto-Paradigmi](https://github.com/KamalGouaiche10/Progetto-Paradigmi-)** | Exploration of programming paradigms through a structured Java project | Java |
-| **[Algoritmi1-UniUpo](https://github.com/KamalGouaiche10/Algoritmi1-UniUpo)** | Algorithms coursework: implementation and analysis | C |
-| **[kamal-portfolio](https://github.com/KamalGouaiche10/kamal-portfolio)** | Personal portfolio website | HTML, CSS |
+I'm originally Arabic-speaking, and have adapted to studying and working in Italian while operating comfortably in English - a habit of adapting fast that carries over into how I pick up new stacks and tools.
 
 <br/>
 
@@ -62,19 +55,6 @@ I'm a Computer Science student focused on building **robust, well-engineered sof
 
 <br/>
 
-## GitHub activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=KamalGouaiche10&show_icons=true&hide_border=true&count_private=true&theme=default" height="165" alt="GitHub stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KamalGouaiche10&layout=compact&hide_border=true&theme=default" height="165" alt="Top languages"/>
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=KamalGouaiche10&hide_border=true&theme=default" alt="GitHub streak"/>
-
-</div>
-
-<br/>
-
 ## Languages
 
 Arabic (native) · Italian (B2) · English (B2)
@@ -83,6 +63,6 @@ Arabic (native) · Italian (B2) · English (B2)
 
 <div align="center">
 
-**Open to opportunities and collaborations — feel free to reach out.**
+**Open to opportunities and collaborations - feel free to reach out.**
 
 </div>
