@@ -1,56 +1,73 @@
 <div align="center">
+Kamal Gouaiche
+Full-Stack & Mobile Developer · Computer Science Student
 
-# Kamal Gouaiche
+<a href="mailto:gouaichekamal@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a> <a href="https://www.linkedin.com/in/kamal-gouaiche-2584b8268/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
 
-### Computer Science Student · Software Engineer in the making
+</div> <br/>
+About me
 
-<a href="mailto:gouaichekamal@gmail.com"><img src="https://img.shields.io/badge/Email-333333?style=flat-square&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/kamal-gouaiche-2584b8268/"><img src="https://img.shields.io/badge/LinkedIn-333333?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+🎓 I'm a final-year Computer Science student at the Università del Piemonte Orientale, with hands-on experience across full-stack development, mobile apps, distributed systems and applied AI.
+
+💼 I recently completed a 3-month internship at Koodit S.r.l., where I independently led a full renewal of the company's core system — migrating it from Laravel/PHP + React to Python/FastAPI + Next.js, owning the project end-to-end from analysis to production.
+
+🤖 I like building real, working products: an AI-powered adaptive learning platform with a RAG pipeline and a multi-agent architecture, a native Android rental marketplace, a distributed event-management system, and more — see below.
+
+🌍 Arabic (native), fluent in Italian, working English, and B1 French — used to adapting fast across languages, stacks and teams.
+
+<br/>
+Experience
+
+Koodit S.r.l. — Full Stack Developer (Curricular Internship) · 2026 · 3 months
+
+Independently led the complete renewal of the company's core system
+Migrated the application architecture from Laravel/PHP + React to Python/FastAPI + Next.js
+Owned the migration end-to-end: legacy system analysis, backend/frontend redesign, testing, deployment
+<br/>
+Featured projects
+
+StudyCoach — AI-Powered Adaptive Learning Platform · Apr–Jul 2026 RAG pipeline (local embeddings + ChromaDB) turning uploaded study material into personalized, interactive study sessions. Multi-agent architecture built with Agno (Guide Agent for Socratic tutoring, Eval Agent for scoring, Contest Agent for challenged evaluations), plus an adaptive engine that reshapes upcoming questions based on performance. Python FastAPI Streamlit SQLite SQLAlchemy ChromaDB RAG LLM Agno
+
+MiCasaEsTuCasa — Native Android App · 2026 Short/mid-term rental marketplace: advanced search, bookings, reviews, real-time chat with images, push notifications, Google Maps integration and an admin dashboard. MVVM architecture with Kotlin Coroutines, StateFlow and LiveData; serverless backend on Firebase/Firestore. Kotlin MVVM Coroutines StateFlow Firebase Firestore Google Maps
+
+EventHub — Distributed Event Management Platform · 2025–2026 Java/RMI system with distinct organizer and attendee roles, built with an Agile methodology and full UML documentation. Java RMI UML Agile
+
+Speedy Website — Food Delivery Platform · 2025 Full web app with dedicated panels for admins, restaurants and customers. HTML5/CSS3 frontend, Node.js REST API backend. Node.js JavaScript HTML5/CSS3 REST API
+
+Compilator AC/DC — Java Compiler · 2026 Compiler translating a custom AC language into DC code, covering lexical analysis, parsing and code translation. Java Compilers Parsing
+
+Database Project — Relational DB Theory & SQL · 2025 ER modeling through to complex stored procedures and queries in PostgreSQL/PLpgSQL. PostgreSQL PLpgSQL SQL
+
+<br/>
+Tech stack
+
+Languages <br/> <img src="https://skillicons.dev/icons?i=py,java,js,ts,kotlin,c,swift" alt="Languages"/>
+
+Web & Backend <br/> <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,nextjs,html,css" alt="Web and Backend"/>
+
+Cloud & Database <br/> <img src="https://skillicons.dev/icons?i=firebase,gcp,postgres,sqlite,git" alt="Cloud and Database"/>
+
+Mobile <br/> <img src="https://skillicons.dev/icons?i=kotlin,androidstudio,swift" alt="Mobile"/>
+
+Tools & Methods <br/> <img src="https://skillicons.dev/icons?i=git,github,gitlab,linux,idea,vscode" alt="Tools and Methods"/>
+
+Also in the toolbox: Prompt Engineering, RAG, LLM/Chatbot AI, Machine Learning, Agno (multi-agent)
+
+<br/>
+Education
+
+Università del Piemonte Orientale — BSc in Computer Science, 2023 – present
+
+<br/>
+Languages
+
+Italian — Fluent · French — B1 · Arabic — Native · English — B2
+
+<br/> <div align="center">
+
+Open to full-stack, mobile and AI engineering opportunities — feel free to reach out.
 
 </div>
+Contenuto
 
-<br/>
-
-## About me
-
-🎓 I'm a Computer Science student at the Universita del Piemonte Orientale, working toward a degree that's taken me from algorithms and database theory to building full working products. I like software that is engineered rather than just written - code that's clean, tested, and easy for the next person (often future me) to pick up.
-
-🛠 Outside coursework, I build things on my own: a full-stack food delivery platform with separate views for admins, restaurants and customers; database systems designed from the ground up; small tools that automate the boring parts of a developer's day. That mix of academic rigor and hands-on building is what pushes me toward a career that bridges software development and infrastructure - writing the applications, and the tooling that helps teams ship them well.
-
-🌍 I'm originally Arabic-speaking, and have adapted to studying and working in Italian while operating comfortably in English - a habit of adapting fast that carries over into how I pick up new stacks and tools.
-
-<br/>
-
-## Tech stack
-
-**Languages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,java,js,kotlin,c" alt="Languages"/>
-
-**Frameworks & Web**
-<br/>
-<img src="https://skillicons.dev/icons?i=nodejs,html,css,bootstrap" alt="Frameworks and Web"/>
-
-**Data & Infrastructure**
-<br/>
-<img src="https://skillicons.dev/icons?i=postgres,sqlite,git" alt="Data and Infrastructure"/>
-
-**Tools**
-<br/>
-<img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio" alt="Tools"/>
-
-*Also in the toolbox: JavaFX, DataGrip, VirtualBox*
-
-<br/>
-
-## Languages
-
-Arabic (native) - Italian (B2) - English (B2)
-
-<br/>
-
-<div align="center">
-
-**Open to opportunities and collaborations - feel free to reach out.**
-
-</div>
+PDF
