@@ -68,6 +68,3 @@ Italian — Fluent · French — B1 · Arabic — Native · English — B2
 Open to full-stack, mobile and AI engineering opportunities — feel free to reach out.
 
 </div>
-Contenuto
-
-PDF
